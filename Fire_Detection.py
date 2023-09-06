@@ -27,9 +27,9 @@ if app_mode == 'About App':
     
     st.markdown("- <h5>Select the App Mode in the SideBar</h5>",unsafe_allow_html=True)
     st.image("Images/first_1.png")
-    st.markdown("- <h5>Upload the Image and Detect the Fires in Images (For example, 0.6 means 60% of Unburned Carbon)</h5>",unsafe_allow_html=True)
+    st.markdown("- <h5>Upload the Image and Detect the Pet in Images (For example, 0.6 means 60% of Unburned Carbon)</h5>",unsafe_allow_html=True)
     st.image("Images/second_2.png")
-    st.markdown("- <h5>Upload the Video and Detect the fires in Videos (For example, 0.6 means 60%)</h5>",unsafe_allow_html=True)
+    st.markdown("- <h5>Upload the Video and Detect the Pet in Videos (For example, 0.6 means 60%)</h5>",unsafe_allow_html=True)
     st.image("Images/third_3.png")
     st.markdown("- <h5>Live Detection</h5>",unsafe_allow_html=True)
     st.image("Images/fourth_4.png")
